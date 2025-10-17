@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@DeanHavelock",
   "VITE_SEO_THEME_COLOR": "#ffd700",
   "VITE_SEO_KEYWORDS": "Pock Fi, Exchange, DeFi, DEX, Trade, Pocket Finance, Easy, Simple, Investment, Crypto, Exchange, Seamless, trading, wealth management, Support, secure transactions, tools, investments, Start trading, Invest",
-  "VITE_AVAILABLE_LANGUAGES": "en",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,it,fr,de,vi,ko,ru,id,tr,pl,nl,uk,pt",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#131722\"}"
