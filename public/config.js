@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Pocket Finance, Exchange, DeFi, DEX, Trade",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Portfolio,Trading",
+  "VITE_ENABLED_MENUS": "Portfolio,Trading,Swap,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Info Hub, https://blog.pockfi.com/p/welcome-to-pocket-finance-trade-today.html; Chat, https://blog.pockfi.com/p/pockfi-community-chat.html",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
