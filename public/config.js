@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Leaderboard,Rewards",
-  "VITE_CUSTOM_MENUS": "Info Hub, https://blog.pockfi.com/p/welcome-to-pocket-finance-trade-today.html; Chat, https://blog.pockfi.com/p/pockfi-community-chat.html",
+  "VITE_CUSTOM_MENUS": "Info Hub, https://blog.pockfi.com/p/welcome-to-pocket-finance-trade-today.html; Chat, https://blog.pockfi.com/p/pockfi-community-chat.html; Legacy, https://dex.orderly.network/demo/perp/PERP_ETH_USDC",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
